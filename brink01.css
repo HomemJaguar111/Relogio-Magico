@@ -1,0 +1,102 @@
+
+body {
+    background-color: rgb(33, 6, 107);
+}
+
+header{
+    display: flex;
+    
+}
+
+#zodiaco{
+    background-color: aliceblue;
+    margin-top: 15px;
+    padding: 10px;
+    width: 480px;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+#txtdata {
+    background-color: aliceblue;
+    margin-top: 15px;
+    padding: 10px;
+    width: 480px;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+#diakin {
+    background-color: aliceblue;
+    margin-top: 15px;
+    padding: 10px;
+    width: 480px;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+
+#horakin {
+    background-color: aliceblue;
+    margin-top: 15px;
+    padding: 10px;
+    width: 480px;
+    margin: 15px auto;
+    text-align: center;
+    font-size: 25px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    border-radius: 10px;
+}
+#elementos{
+    display: flex;
+    justify-content: space-between;
+}
+
+#selos{
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+#tela{
+    border-radius: 50% ;
+    width: 600px;
+    height: 600px;
+    background-color: aliceblue;
+    margin: auto;
+}
+
+
+#txthoras{
+    background-color: aliceblue;
+    padding: 12px;
+    font-size: 25px;
+    width: 150px;
+    text-align: center;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 10px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+#conteiner1{
+    width: 800px;
+    height: 800px;
+    background-color: rgb(94, 97, 221);
+    margin: auto;
+    border-radius: 5px;
+    
+}
+
+
+
+ 
+
